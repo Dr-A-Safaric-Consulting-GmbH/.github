@@ -22,7 +22,8 @@ Safaric Consulting is committed to the responsible and secure use of artificial 
 Security-related matters concerning our AI and software solutions are coordinated by:
 
 **Ralph Lippoldt**  
-Senior Manager – AI Process Optimization
+Senior Manager – AI Process Optimization  
+GitHub: [@ralph-lippoldt](https://github.com/ralph-lippoldt)
 
 Responsible for secure AI use, AI governance, and the coordination of security matters related to internally developed AI and software solutions.
 

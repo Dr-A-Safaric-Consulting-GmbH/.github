@@ -12,8 +12,9 @@ If you believe you have identified a security issue affecting software or AI sol
 
 **Security contact**
 
-Ralph Lippoldt  
-Senior Manager – AI Process Optimization
+**Ralph Lippoldt**  
+Senior Manager – AI Process Optimization  
+GitHub: [@ralph-lippoldt](https://github.com/ralph-lippoldt)
 
 Ralph Lippoldt coordinates security matters related to internally developed AI and software solutions, including secure AI use, vulnerability assessment, and remediation activities.
 

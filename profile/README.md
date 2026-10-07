@@ -13,7 +13,7 @@ Our areas of expertise include:
 - IT architecture and software solutions
 - Responsible and secure use of AI
 
-In addition to our consulting activities, we develop and maintain software and AI solutions that support business processes transformation.
+In addition to our consulting activities, we develop and maintain software and AI solutions that support business process optimization and transformation.
 
 ## Security & Responsible AI
 
